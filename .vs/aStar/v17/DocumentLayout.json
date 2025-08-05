@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HighTech\\aStar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA862-2762-8BBE-718B-2B0F9F2DF02B}|Assembly-CSharp.csproj|c:\\users\\hightech\\astar\\assets\\findpathastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05BA862-2762-8BBE-718B-2B0F9F2DF02B}|Assembly-CSharp.csproj|solutionrelative:assets\\findpathastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05BA862-2762-8BBE-718B-2B0F9F2DF02B}|Assembly-CSharp.csproj|c:\\users\\hightech\\astar\\assets\\maze_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05BA862-2762-8BBE-718B-2B0F9F2DF02B}|Assembly-CSharp.csproj|solutionrelative:assets\\maze_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maze_copy.cs",
+              "DocumentMoniker": "C:\\Users\\HighTech\\aStar\\Assets\\Maze_copy.cs",
+              "RelativeDocumentMoniker": "Assets\\Maze_copy.cs",
+              "ToolTip": "C:\\Users\\HighTech\\aStar\\Assets\\Maze_copy.cs",
+              "RelativeToolTip": "Assets\\Maze_copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:17:52.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindPathAStar.cs",
+              "DocumentMoniker": "C:\\Users\\HighTech\\aStar\\Assets\\FindPathAStar.cs",
+              "RelativeDocumentMoniker": "Assets\\FindPathAStar.cs",
+              "ToolTip": "C:\\Users\\HighTech\\aStar\\Assets\\FindPathAStar.cs",
+              "RelativeToolTip": "Assets\\FindPathAStar.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAPEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:17:48.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
